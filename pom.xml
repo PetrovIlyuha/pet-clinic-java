@@ -43,7 +43,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/PetrovIlyuha/spring-pet-clinic.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/PetrovIlyuha/pet-clinic-java.git</developerConnection>
       <tag>HEAD</tag>
   </scm>
 
